@@ -146,4 +146,5 @@ Up to 9 images, 3 video clips and 3 audio files in one generation. Images fix ch
 
 *This is an independent, community-maintained information repository about Seedance 2.0. It is not affiliated with, endorsed by, or sponsored by ByteDance (Seed). All trademarks belong to their respective owners. Corrections welcome via issues.*
 
+
 _Last reviewed: 2026-09-22_
